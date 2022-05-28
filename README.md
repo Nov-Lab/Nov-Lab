@@ -1,4 +1,4 @@
-### Hi there 👋
+### 業務系、官公庁系、自治体系を主に担当してきたプログラマーです。
 
 <!--
 **Nov-Lab/Nov-Lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
